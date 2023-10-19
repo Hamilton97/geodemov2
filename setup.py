@@ -52,6 +52,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/Hamilton97/geodemov2',
-    version='version='1.0.0'',
+    version='version='1.1.0'',
     zip_safe=False,
 )
